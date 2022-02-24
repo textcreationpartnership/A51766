@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Manifesto or declaration set forth by the undertakers of the new church now erected in Boston in New England, November 17th, 1699.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51766</idno>
+            <idno type="STC">Wing M429</idno>
+            <idno type="STC">ESTC R35012</idno>
+            <idno type="EEBO-CITATION">14923855</idno>
+            <idno type="OCLC">ocm 14923855</idno>
+            <idno type="VID">102953</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102953)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1574:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Manifesto or declaration set forth by the undertakers of the new church now erected in Boston in New England, November 17th, 1699.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Boston [Mass.] :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  Massachusetts.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="church_manifesto">
+            <pb facs="tcp:102953:1"/>
+            <pb facs="tcp:102953:1" rendition="simple:additions"/>
+            <head>A MANIFESTO OR Declaration, Set forth by the Undertakers of the New Church Now Erected in <hi>Boſton</hi> in <hi>New-England, November</hi> 17th. 1699.</head>
+            <p>
+               <hi>INASM<g ref="char:V">Ʋ</g>CH as GOD hath put it into our hearts to undertake the Building a New</hi> Meeting Houſe <hi>in this Town for His Publick Worſhip; And whereas through the gracious Smiles of Divine Providence on this our <g ref="char:V">Ʋ</g>ndertaking, We now ſee the ſame Erected, and near Finiſhed: We think it Convenient, for preventing all Miſapprehenſions and Jealouſies, to publiſh our Aims and Deſigns herein, together with thoſe Principles and Rules we intend by GODS Grace to adhere unto.</hi>
+            </p>
+            <p>We do therefore as in the Preſence of GOD our Judge, and with all the Sincerity and Seriouſneſs, which the nature of our preſent Engage<g ref="char:EOLhyphen"/>ment Commands from us, Profeſs and Declare both to one another, and to all the World, <hi>as follows.</hi>
+            </p>
+            <div n="1" type="article">
+               <head>[I.]</head>
+               <p>Firſt of all, We approve and ſubſcribe the <hi>Confeſſion of Faith</hi> put forth by the Aſſembly of Divines at <hi>Weſtminſter.</hi>
+               </p>
+            </div>
+            <div n="2" type="article">
+               <head>[II.]</head>
+               <p>We deſign only the true and pure Worſhip of GOD, according to the Rules appearing plainly to us in His Word; Conformably to the known practice of many of the Churches of the UNITED BRETHREN in <hi>London,</hi> and through<g ref="char:EOLhyphen"/>out all <hi>England.</hi>
+               </p>
+               <p>We judge it therefore moſt ſuitable and convenient, that in our Publick Wor<g ref="char:EOLhyphen"/>ſhip ſome part of the Holy Scripture be read by the Miniſter at his diſcretion.</p>
+               <p>In all other parts of Divine Worſhip as (Prayer, Singing, Preaching, Bleſſing the People, and Adminiſtring the Sacraments;) We conform to the ordinary practice of the Churches of Chriſt in this Country.</p>
+            </div>
+            <div n="3" type="article">
+               <pb n="2" facs="tcp:102953:2"/>
+               <head>[III.]</head>
+               <p>It is our ſincere deſire and intention to hold Communion with the Churches here, as true Churches; and we openly proteſt againſt all Suſpicion and Jealouſie to the contrary, as moſt Injurious to us.</p>
+            </div>
+            <div n="4" type="article">
+               <head>[IV.]</head>
+               <p>And although in ſome Circumſtances we may vary from many of them; yet we joyntly profeſs to maintain ſuch Order and Rules of Diſcipline as may preſerve, as far as in us lies, Evangelical Purity and Holineſs in our Communion.</p>
+            </div>
+            <div n="5" type="article">
+               <head>[V.]</head>
+               <p>In purſuance whereof we further Declare, that we allow of Baptiſm to thoſe only who profeſs their Faith in Chriſt and Obedience to him, and to the Children of ſuch; yet we dare not refuſe it to <hi>any</hi> Child offered to us by <hi>any</hi> profeſſed Chriſtian, upon his engagement to ſee it Educated, if God give life and ability, in the Chriſtian Religion.</p>
+               <p>But this being a Miniſterial Act, We think it the Paſtors Province to receive ſuch Profeſſions and Engagements; in whoſe prudence and conſcience we ac<g ref="char:EOLhyphen"/>quieſce.</p>
+            </div>
+            <div n="6" type="article">
+               <head>[VI.]</head>
+               <p>As to the Sacrament of the Lords Supper, we believe that as the Ordinance is Holy, ſo the Partakers in it (that it may not be viſibly profaned) muſt be per<g ref="char:EOLhyphen"/>ſons of viſible Sanctity.</p>
+            </div>
+            <div n="7" type="article">
+               <head>[VII.]</head>
+               <p>We judge it therefore fitting and expedient, that whoever would be admitted to partake with us in this Holy Sacrament, be accountable to the Paſtor to whom it belongs to inquire into their knowledge and Spiritual State, and to require the Re<g ref="char:EOLhyphen"/>newal of their Baptiſmal Covenant.</p>
+            </div>
+            <div n="8" type="article">
+               <head>[VIII.]</head>
+               <p>But we aſſume not to our ſelves to impoſe upon any a Publick Relation of their Experiences; however if any one think himſelf bound in Conſcience to make ſuch a Relation, let him do it.</p>
+               <p>For we conceive it ſufficient, if the Paſtor publickly declare himſelf ſatisfied in the perſon offered to our Communion, and ſeaſonably Propound him.</p>
+            </div>
+            <div n="9" type="article">
+               <head>[IX.]</head>
+               <p>We alſo think our ſelves obliged in faithfulneſs to God, our own Souls, and theirs who ſeek our Communion, to inquire into the life and converſation of thoſe who are ſo propounded; and if we have juſt matter of objection to prefer it againſt them.</p>
+            </div>
+            <div n="10" type="article">
+               <head>[X.]</head>
+               <p>But if no objection be made, before the time of their ſtanding propounded is expired, it ſhall be eſteemed a ſufficient Conſent and Concurrence of the Brethren, and the perſon propounded ſhall be received to our Communion.</p>
+            </div>
+            <div n="11" type="article">
+               <head>[XI.]</head>
+               <p>If ever any of our Communion ſhould be ſo unhappy as to fall into any ſcandalous Sin (which God by his Grace prevent) we profeſs all dutiful ſub<g ref="char:EOLhyphen"/>miſſion to thoſe Cenſures, which the Scripture directs, and the Churches here practice.</p>
+            </div>
+            <div n="12" type="article">
+               <pb n="3" facs="tcp:102953:2"/>
+               <head>[XII.]</head>
+               <p>Foraſmuch as the ſame power that <hi>Admits,</hi> ſhould alſo <hi>Euclude,</hi> We judge it reaſonable, that the Paſtor in Suſpending or Excommunicating an Offender, have the conſent and concurrence of the Brethren.</p>
+            </div>
+            <div n="13" type="article">
+               <head>[XIII.]</head>
+               <p>We apprehend that a particular Church, as ſuch, is a Society of Chriſtians by mutual agreement, uſually meeting together for Publick Worſhip in the ſame place, and under the ſame Miniſtry, attending on the Ordinances of God there.</p>
+            </div>
+            <div n="14" type="article">
+               <head>[XIV.]</head>
+               <p>In every ſuch Society, the Law of nature dictates to us, that there is implied a mutual promiſe and engagement of being faithful to the Relations they bear to each other, whither as private Chriſtians, or as Paſtor and Flock, ſo long as the Providence of God continues them in thoſe Relations.</p>
+            </div>
+            <div n="15" type="article">
+               <head>[XV.]</head>
+               <p>We moreover Declare our ſelves for Communion of Churches, freely allow<g ref="char:EOLhyphen"/>ing our Members occaſionally to Communicate with other Churches of Chriſt, and receiving theirs occaſionally to the Table of the Lord with us. And in extraordinary caſes, when the Providence of God makes it needful, we conceive that any Authorized Miniſter of Chriſt, may upon our requeſt, Adminiſter the Sacraments unto us.</p>
+            </div>
+            <div n="16" type="article">
+               <head>[XVI.]</head>
+               <p>
+                  <hi>Finally,</hi> We cannot confine the right of chuſing a Miniſter to the Male Communicant; alone, but we think that every Baptized Adult Perſon who contributes to the Maintenance, ſhould have a Vote in Electing.</p>
+               <p>Yet it ſeems but juſt, that perſons of the greateſt Piety, Gravity, Wiſdom, Authority or other Endowments, ſhould be leading and Influential to the So<g ref="char:EOLhyphen"/>ciety in that Affair.</p>
+               <p>THESE are the Principles we Profeſs, and the Rules we purpoſe through the Grace of GOD, to govern our ſelves by; and in ſome of theſe particulars only, and in no other, do we ſee cauſe to depart from what is ordinarily Profeſſed and Practiſed by the Churches of CHRIST here in <hi>New-England.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
